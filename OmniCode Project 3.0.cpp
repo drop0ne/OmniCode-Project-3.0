@@ -1,5 +1,9 @@
 // OmniCode Project 3.0.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//This is an old project of mine.  I have improved since I last worked on this over a year ago.
+//I just want to put this up here on github and casually make it better over time.
+
+
 #include "Include.h"
 
 int main() {
